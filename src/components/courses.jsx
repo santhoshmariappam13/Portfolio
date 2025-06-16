@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const certificates = [
   {
     title: "full Stack",
-    provider: "guvi",
+    provider: "GUVI",
     link: "https://drive.google.com/file/d/19F9w0wIjl9KUjmnWXnq6SJPPh9GT2Zk4/view?usp=drive_link",
     color: "from-blue-400 via-purple-400 to-pink-400",
   },
@@ -27,9 +27,9 @@ const certificates = [
     color: "from-green-400 via-blue-400 to-purple-400",
   },
   {
-    title: "React - The Complete Guide",
-    provider: "Udemy",
-    link: "https://udemy.com/certificate/react-complete-guide",
+    title: "Database",
+    provider: "GUVI",
+    link: "https://drive.google.com/file/d/1mojIF0OWMYl7ZioluDfDkN6ofGilfLqO/view?usp=drive_link",
     color: "from-cyan-400 via-blue-400 to-indigo-400",
   },
   {

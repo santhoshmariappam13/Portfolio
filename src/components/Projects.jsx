@@ -14,7 +14,7 @@ const projectList = [
     title: "🛒 E-commerce App – Fake Store API",
     tech: ["React.js", "Tailwind CSS", "Fake Store API"],
     github: "https://github.com/santhoshmariappam13/cart-react.git",
-    demo: "https://fakestore-3.netlify.app/",
+    demo: "https://fakestore-2.netlify.app/",
     description:
       "A modern e-commerce front-end built with React.js and styled using Tailwind CSS. It integrates with the Fake Store API to fetch dynamic product listings. Users can view product details and manage a shopping cart using a modal interface, with responsive design for mobile and desktop.",
   },
